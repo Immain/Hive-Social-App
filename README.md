@@ -6,13 +6,13 @@ Welcome to Hive Social, the buzzing hub of Panda's Hangout Gaming Community! Bui
 This endeavor is currently a work in progress, marking my inaugural solo project as a novice developer. It resides squarely within the pre-alpha phase of development, with certain features either operational or still undergoing refinement as I progress through my learning expedition. Your understanding and patience are greatly appreciated during this phase of growth.
 
 ## In-Use
-- Clerk for authentication
-- File uploads with UploadThing
-- Shadcn components
+- Clerk for authentication - https://clerk.com/
+- File uploads with UploadThing - https://uploadthing.com/
+- Shadcn components - https://ui.shadcn.com/
 - Real-time events with webhooks
 - Middleware, API actions, and authorization
 - Next.js layout route groups
-- Zod Data Validation
+- Zod Data Validation - https://zod.dev/
 - Forms with react hook form
 - Reusable components
 
