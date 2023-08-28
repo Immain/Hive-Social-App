@@ -15,3 +15,6 @@ This endeavor is currently a work in progress, marking my inaugural solo project
 - Zod Data Validation
 - Forms with react hook form
 - Reusable components
+
+## Panda's Hangout
+https://pandashangout.com/
