@@ -9,10 +9,10 @@ This endeavor is currently a work in progress, marking my inaugural solo project
 - Clerk for authentication - https://clerk.com/
 - File uploads with UploadThing - https://uploadthing.com/
 - Shadcn components - https://ui.shadcn.com/
+- Zod Data Validation - https://zod.dev/
 - Real-time events with webhooks
 - Middleware, API actions, and authorization
 - Next.js layout route groups
-- Zod Data Validation - https://zod.dev/
 - Forms with react hook form
 - Reusable components
 
