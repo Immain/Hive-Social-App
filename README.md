@@ -1,5 +1,5 @@
 # Hive Social
-
+![Hive](https://i.imgur.com/g4OzW34.png)
 ## Summary
 Welcome to Hive Social, the buzzing hub of Panda's Hangout Gaming Community! Built Using Next.JS 13, embrace the Panda spirit and become a part of our dynamic gaming family. Jump in, level up, and let's create gaming memories together!
 
